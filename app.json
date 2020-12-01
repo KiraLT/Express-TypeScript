@@ -1,0 +1,8 @@
+{
+    "name": "Express-TypeScript",
+    "description": "Express.js + TypeScript template",
+    "repository": "https://github.com/KiraLT/Express-TypeScript",
+    "keywords": [
+    ],
+    "success_url": "/"
+}
